@@ -1,0 +1,17 @@
+body {
+    font-family: fantasy;
+    font-weight: 300;
+    font-size: 1.4rem;
+    background-color: #444;
+    color: #fff;
+    text-align: center;
+
+    background: #0f0c29;
+    background: -webkit-linear-gradient(to right, #24243e, #302b63, #0f0c29);
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);
+
+}
+
+h1, h2 {
+    font-weight: 300;
+}
